@@ -13,3 +13,4 @@ So to make everythig work you have
 
 
 Visibility of dependent fields comes as new editing are saved (save and close +open again items form OR save and stay)
+[![m2m-cobditions](http://img.youtube.com/vi/CZ_BQQYVZ3c/0.jpg)](http://www.youtube.com/watch?v=CZ_BQQYVZ3c "m2m-conditions")
