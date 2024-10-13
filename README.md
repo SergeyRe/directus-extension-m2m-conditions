@@ -1,3 +1,10 @@
+## Deprecated 
+
+check [directus-extension-keep-related-collection-ids-in-csv](https://www.npmjs.com/package/directus-extension-keep-related-collection-ids-in-csv) as more reliable alternative for M2M field condition
+
+
+
+
 This is a directus hook extension to achieve conditions feature for m2m as well as for m2o fields in the same manner.
 It's enougth hardcoded, mainly for idea demonstration. The idea is to use working for string fields mechanism to make conditions for any field on presense of key in another string field.
 
